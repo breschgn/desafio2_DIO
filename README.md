@@ -1,6 +1,6 @@
 # Calculadora de Partida Rankeada
 
-Este projeto consiste em um script Python que calcula o nível de um herói com base na quantidade de vitórias e derrotas informadas pelo usuário. Os níveis variam de "Ferro" até "Imortal", dependendo da quantidade de vitórias.
+Este projeto consiste em um script Python que calcula o nível de um jogador com base na quantidade de vitórias e derrotas informadas pelo usuário. Os níveis variam de "Ferro" até "Imortal", dependendo da quantidade de vitórias.
 
 ## Funcionalidades
 
